@@ -11,6 +11,7 @@ class GalToLitTable {
            if (counter==10) {//Если значение счетчика равно 10, вывести пустую строку
                System.out.println();
                counter = 0;//сьросить счетчик строк
+               System.out.println();
            }
         }
     }
